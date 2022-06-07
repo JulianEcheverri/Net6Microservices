@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MangoRestaurant/Mango.Services.ProductAPI/bin/Debug/net6.0
+/.vs
+/MangoRestaurant/.vs/MangoRestaurant
+/MangoRestaurant/Mango.Services.ProductAPI/obj/Debug/net6.0
+/MangoRestaurant/Mango.Services.ProductAPI/obj
+/MangoRestaurant/Mango.Web/obj
+/MangoRestaurant/Mango.Web/bin/Debug/net6.0
